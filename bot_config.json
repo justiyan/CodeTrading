@@ -1,0 +1,13 @@
+{
+    "instrument": "EUR_USD",
+    "granularity": "H1",
+    "lookback_candles": 100,
+    "risk_per_trade": 0.01,
+    "stop_loss_pips": 20,
+    "risk_reward_ratio": 2.0,
+    "max_position_size": 10000,
+    "daily_trade_limit": 10,
+    "confidence_threshold": 0.0005,
+    "check_interval": 300,
+    "device": "cpu"
+}
